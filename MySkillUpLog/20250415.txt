@@ -7,4 +7,4 @@ welcme.blade.phpの作成
 Git操作
 
 ＜作業内時間＞
-1時間
+1時間半
