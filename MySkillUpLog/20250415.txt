@@ -1,0 +1,10 @@
+個人開発
+
+＜作業内容＞
+
+rooting（init）作成
+welcme.blade.phpの作成
+Git操作
+
+＜作業内時間＞
+1時間
