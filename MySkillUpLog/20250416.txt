@@ -2,9 +2,8 @@
 
 ＜作業内容＞
 
-rooting（init）作成
-InitControllerの作成
-Git操作
+開発環境をlaradockからLaravel Sail
+環境構築やり直し
 
 ＜作業内時間＞
 1時間半
